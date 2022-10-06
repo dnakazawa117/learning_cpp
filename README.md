@@ -1,1 +1,1 @@
-"# learning_cpp" 
+This repository includes the source code for my answers to some of the coding challenges presented in Tim Buchalka's "Beginning C++ Programming - From Beginner to Beyond" Udemy course. 
